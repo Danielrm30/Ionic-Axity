@@ -1,0 +1,7 @@
+{
+  "name": "Curso Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
